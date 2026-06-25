@@ -1,4 +1,4 @@
-# Decorators - Quick Revision
+# Decorators
 
 ---
 
